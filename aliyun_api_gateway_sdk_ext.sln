@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aliyun_api_gateway_sdk_ext", "aliyun_api_gateway_sdk_ext\aliyun_api_gateway_sdk_ext.csproj", "{2D36FD8B-03A0-40DD-986B-A2879C3E1A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aliyun_api_gateway_sdk", "aliyun_api_gateway_sdk\aliyun_api_gateway_sdk.csproj", "{28C889C3-E87D-4933-A94B-6EEC0CA2AD7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D36FD8B-03A0-40DD-986B-A2879C3E1A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D36FD8B-03A0-40DD-986B-A2879C3E1A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D36FD8B-03A0-40DD-986B-A2879C3E1A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D36FD8B-03A0-40DD-986B-A2879C3E1A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C889C3-E87D-4933-A94B-6EEC0CA2AD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C889C3-E87D-4933-A94B-6EEC0CA2AD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C889C3-E87D-4933-A94B-6EEC0CA2AD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C889C3-E87D-4933-A94B-6EEC0CA2AD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE9F199-21CA-47CE-B667-245CA283F4AF}
+	EndGlobalSection
+EndGlobal
